@@ -50,7 +50,7 @@ Keras, Tensorflow for Deep Learning , Numpy, Pandas
 for Data Manipulation, Matplotlib and Seaborn for Data
 Visualization.**
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib,Seaborn, keras, PyTorch, Keras, NLTK, Tensorflow.
+**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib,Seaborn.
 
 **Operating systems :** Windows 10/ Linux(Ubuntu).
 
