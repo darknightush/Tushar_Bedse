@@ -40,10 +40,6 @@ Regression, Decision Trees, Random Forest, KNN,
 Naïve Bayes,K-means Clustering, Hierarchical
 Clustering.**
 
-**Deep Learning Algorithms include Artificial Neural
-Network, Convolution Neural Network,Recurrent
-Neural Network.**
-
 **Skilled in libraries such as , Sklearn for Machine Learning, Numpy, Pandas
 for Data Manipulation, Matplotlib and Seaborn for Data
 Visualization.**
