@@ -1,9 +1,8 @@
-### Hi there, I'm Tushar Bedse 👋
 
 <img alt="GIF" height= 200 src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" />
 
 
-### Hi there, I'm [Tushar Bedse]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/darknightush?style=social) 👋
+### Hi there, I'm [Tushar Bedse]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/darknightush?style=social)
 
 <p>
   <em>
