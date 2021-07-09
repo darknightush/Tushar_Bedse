@@ -44,8 +44,7 @@ Clustering.**
 Network, Convolution Neural Network,Recurrent
 Neural Network.**
 
-**Skilled in libraries such as , Sklearn for Machine Learning,
-Keras, Tensorflow for Deep Learning , Numpy, Pandas
+**Skilled in libraries such as , Sklearn for Machine Learning, Numpy, Pandas
 for Data Manipulation, Matplotlib and Seaborn for Data
 Visualization.**
 
