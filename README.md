@@ -32,9 +32,9 @@
 
 **Things I'm good at :fire:**
 
-**Languages: Python.**
+**Languages: Python, HTML.**
 
-**Machine Learning Algorithms include Linear Regression,
+**Machine Learning Algorithms: Linear Regression,
 Ridge Regression, Lasso Regression, SVM, Logistic
 Regression, Decision Trees, Random Forest, KNN,
 Naïve Bayes,K-means Clustering, Hierarchical
@@ -44,7 +44,8 @@ Clustering.**
 for Data Manipulation, Matplotlib and Seaborn for Data
 Visualization.**
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib,Seaborn.
+**Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib,Seaborn.**
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
@@ -52,15 +53,12 @@ Visualization.**
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="terminal"></code>
+
+**Operating systems : Windows 10/ Linux(Ubuntu).**
 </p>
 </div>
-**Operating systems :** Windows 10/ Linux(Ubuntu).
 
 ## Skills 🚀 
-
-[![](https://img.shields.io/badge/ScikitLearn-389cc7?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)](#) &emsp;
