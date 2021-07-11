@@ -21,6 +21,7 @@
 - 🤔 My interests are in Data Science, AI.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via tusharbedse25@gmail.com to reach me
+- ♟️I love to play chess and 🏏 cricket and like to ⛰️ trekking.
 
 <br/>
 </em>
@@ -46,6 +47,12 @@ Visualization.**
 
 **Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib,Seaborn.**
 
+**Operating systems : Windows 10/ Linux(Ubuntu).**
+</p>
+</div>
+
+## Skills 🚀 
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
@@ -54,11 +61,6 @@ Visualization.**
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="terminal"></code>
 
-**Operating systems : Windows 10/ Linux(Ubuntu).**
-</p>
-</div>
-
-## Skills 🚀 
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)](#) &emsp;
