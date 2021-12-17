@@ -40,12 +40,14 @@ Ridge Regression, Lasso Regression, SVM, Logistic
 Regression, Decision Trees, Random Forest, KNN,
 Naïve Bayes,K-means Clustering, Hierarchical
 Clustering.**
+  
+**Deep Learning Algorithms: ANN, CNN, RNN, Transfer Learning, LSTM**
 
-**Skilled in libraries such as , Sklearn for Machine Learning, Numpy, Pandas
+**Skilled in libraries such as , Sklearn for Machine Learning, Deep Learning, Numpy, Tensorflow, Keras, Pandas
 for Data Manipulation, Matplotlib and Seaborn for Data
 Visualization.**
 
-**Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib,Seaborn.**
+**Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib,Seaborn, Tensorflow, Keras**
 
 **Operating systems : Windows 10/ Linux(Ubuntu).**
 </p>
@@ -54,12 +56,14 @@ Visualization.**
 ## Skills 🚀 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title="tensorflow"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="terminal"></code>
+
 
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) &emsp;
