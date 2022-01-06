@@ -14,7 +14,7 @@
 <em>
 
 **Talking about Personal Stuffs:**
-
+- Currently working as Data science Intern 👨‍💻 in Zummit Infolabs!
 - 🗞️ Completed Engineering and PG diploma in Machine Learning 🤖 and worked as a Techanical Support Engineer.
 - ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.
 - 🤔 My interests are in Data Science, AI.
