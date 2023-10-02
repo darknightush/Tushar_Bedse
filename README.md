@@ -15,9 +15,9 @@
 
 **Talking about Personal Stuffs:**
 - Currently working as Junior Data scientist 👨‍💻 in Kanini Software!
-- 🗞️ Completed Engineering and PG diploma in Machine Learning 🤖 and worked as a Techanical Support Engineer.
-- ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.
-- 🤔 My interests are in Data Science, AI.
+- 🗞️ Completed Engineering and PG diploma in Machine Learning 🤖 and worked as a Technical Support Engineer.
+- ⏳ I am constantly learning and keeping myself updated with the latest technologies in AI.
+- 🤔 My interests are in Data Science and AI.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via tusharbedse25@gmail.com to reach me
 - ♟️I love to play chess and 🏏 cricket and like to ⛰️ trekking.
@@ -39,10 +39,11 @@ Ridge Regression, Lasso Regression, SVM, Logistic
 Regression, Decision Trees, Random Forest, KNN,
 Naïve Bayes,K-means Clustering, Hierarchical
 Clustering.**
-  
-**Deep Learning Algorithms: ANN, CNN, RNN, Transfer Learning, LSTM**
 
-**Skilled in libraries such as , Sklearn for Machine Learning, Deep Learning, Numpy, Tensorflow, Keras, Pandas
+**Deep Learning Algorithms: ANN, CNN, RNN, Transfer Learning, LSTM, OPENAI MODELS (TURBO3-5, GPT-4), HUGGINGFACE MODELS**
+**Cloud : AZURE, AWS, GCP**
+**MLOPS FRAMEWORKS: mlflow, zenml**
+**Skilled in libraries such as , Sklearn for langchain, mlflow, streamlit, sklearn, Numpy, Tensorflow, Keras, Pandas
 for Data Manipulation, Matplotlib and Seaborn for Data
 Visualization.**
 
