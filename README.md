@@ -32,7 +32,7 @@
 
 **Things I'm good at :fire:**
 
-**Languages: Python, HTML.**
+**Languages: Python, SQL, HTML.**
 
 **Machine Learning Algorithms: Linear Regression,
 Ridge Regression, Lasso Regression, SVM, Logistic
