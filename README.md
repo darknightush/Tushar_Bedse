@@ -41,8 +41,11 @@ Naïve Bayes,K-means Clustering, Hierarchical
 Clustering.**
 
 **Deep Learning Algorithms: ANN, CNN, RNN, Transfer Learning, LSTM, OPENAI MODELS (TURBO3-5, GPT-4), HUGGINGFACE MODELS**
+
 **Cloud : AZURE, AWS, GCP**
+
 **MLOPS FRAMEWORKS: mlflow, zenml**
+
 **Skilled in libraries such as , Sklearn for langchain, mlflow, streamlit, sklearn, Numpy, Tensorflow, Keras, Pandas
 for Data Manipulation, Matplotlib and Seaborn for Data
 Visualization.**
